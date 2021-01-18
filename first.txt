@@ -3,3 +3,4 @@ aaaaaass
 .git add
 .git commit
 ,git remove
+.git statuss
