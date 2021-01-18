@@ -4,3 +4,4 @@ aaaaaass
 .git commit
 ,git remove
 .git statuss
+.git diff
