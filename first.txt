@@ -2,3 +2,4 @@ git time
 aaaaaass
 .git add
 .git commit
+,git remove
